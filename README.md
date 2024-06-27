@@ -10,4 +10,4 @@
 
 <!-- Lesson (05) Conditional Operators. 32:42 / 37:25, (01:06:29) Vid Time End Conditional Operator -->
 
-<!-- Lesson (05) Conditional Operators. 37:25 / 39:32, (01:06:29) Vid Time End Conditional Operator else if-->
+<!-- Lesson (05) Conditional Operators. 39:32 / 42:20, (01:06:29) Vid Time End Conditional Operator Switch -->
