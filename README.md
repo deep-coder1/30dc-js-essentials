@@ -14,3 +14,5 @@
 
 
 <!-- Lesson (06) Loops. 42:20 / 48:08, (01:06:29) Vid Time End Loops for loop -->
+
+<!-- Lesson (07) Functions. 48:08 / 53:52, (01:06:29) Vid Time End Functions - Funtion, short function, Arrow function -->
